@@ -261,7 +261,9 @@ RETURN n,r,m
 <p align="center">
   <img src="figures/graph2.png" width="700">
 </p>
-
+<p align="center">
+  <img src="figures/graph1.png" width="700">
+</p>
 ---
 
 # Future Improvements
