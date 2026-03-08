@@ -1,0 +1,6 @@
+
+# Put your Neo4j Aura credentials here
+URI = "neo4j://127.0.0.1:7687"
+USERNAME = "neo4j"
+PASSWORD = "password"
+

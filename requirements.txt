@@ -1,0 +1,8 @@
+
+neo4j
+pandas
+sentence-transformers
+faiss-cpu
+streamlit
+pyvis
+numpy
